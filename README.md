@@ -53,6 +53,7 @@ project-directory/
    ```plaintext
    COHERE_API_KEY=<your-cohere-api-key>
    HUME_API_KEY=<your-hume-api-key>
+   HUME_API_KEY=<your-hume-secret-key>
    PINECONE_API_KEY=<your-pinecone-api-key>
    ```
 
